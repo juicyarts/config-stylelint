@@ -16,6 +16,10 @@
     "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.17.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juicyarts/config-stylelint"
+  },
   "devDependencies": {
     "stylelint": "^13.3.3"
   }
