@@ -1,0 +1,22 @@
+{
+  "name": "@juicyarts/config-stylelint",
+  "version": "0.1.0",
+  "description": "central stylelint config",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "juicyarts <huess@juicyarts.de>",
+  "peerDependencies": {
+    "stylelint": "^13.3.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@juicyarts"
+  },
+  "dependencies": {
+    "stylelint-config-sass-guidelines": "^7.0.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.2"
+  },
+  "devDependencies": {
+    "stylelint": "^13.3.3"
+  }
+}
